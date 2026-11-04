@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.agontrivia.app",
+    "sha256_cert_fingerprints": ["98:12:3E:6B:67:62:13:43:C7:57:D1:4B:16:E0:46:09:0F:DA:10:1B:6A:96:09:0D:6C:64:BD:33:6B:49:A1:9B"]
+  }
+}]
